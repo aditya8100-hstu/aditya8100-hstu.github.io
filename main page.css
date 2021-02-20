@@ -1,0 +1,212 @@
+body{
+  background-color: gray;
+}
+h1:hover{
+text-shadow:  2px 5px  OLIVE;
+}
+p{
+ color:white;
+}
+
+
+ .navbar{
+  background-image: linear-gradient(to right , orange , green);
+}
+.navbar-nav .nav-item .nav-link {
+   color: white;
+   font-weight: 600px;
+}
+
+
+
+
+
+
+#banner{
+  background-image: url(bc.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px;
+}
+#banner p{
+  color:white;
+  margin-top: 70px;
+}
+#banner img{
+ margin-top: 30px;
+ height: 300px;
+}
+.icon-1{
+  color : white;
+  margin-top: 40px;
+}
+.icon-1:hover{
+  color: orange;
+}
+#banner a{
+  color:white;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+
+
+
+
+
+#service{
+  padding: 20px;
+}
+#service h1{
+  color:white;
+  margin-top: 30px;
+}
+#service .row{
+  margin-top: 20px;
+}
+#service h2{
+  color: white;
+}
+#service img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+#service .btn{
+  background-image: linear-gradient(to right , yellow , green);
+}
+
+
+
+
+
+#why-choose h1{
+  color:white;
+  margin-top: 50px;
+
+}
+#why-choose p{
+  margin-top: 70px;
+
+}
+#why-choose .my{
+  padding: 10px 10px;
+}
+#why-choose img{
+  height: 300px;
+  width: 400px;
+  margin-top: 30px;
+}
+
+
+
+#workers h1{
+  color:white;
+  margin-top: 50px;
+}
+.card:hover{
+  box-shadow: 5px 10px 10px 20px;
+}
+#workers .row{
+  margin-top: 40px;
+}
+#workers .card-text{
+  color:black;
+}
+#workers .my2{
+  padding: 10px 10px 10px 10px;
+
+}
+#workers .rumi{
+  height: 270px;
+}
+#workers .rumi2{
+  margin-top: 40px;
+}
+
+
+
+
+#client-say{
+  color:white;
+  margin-top: 50px;
+  padding: 30px;
+
+}
+#client-say .my1 img{
+  width: 50px;
+  height: 50px;
+}
+#client-say .my2 img{
+  width: 50px;
+  height: 50px;
+}
+#client-say h6{
+  margin-left: 150px;
+  margin-top: -20px;
+}
+#client-say .my1 {
+     margin-top: 20px;
+
+}
+#client-say .my2 {
+  margin-top: 20px;
+   border-left: 4px solid red;
+}
+
+
+
+
+#creat_ac .container{
+  background-image: linear-gradient(to right , yellow , aqua);
+  padding: 20px;
+  margin-top: 30px;
+}
+#creat_ac h1{
+  color: white;
+}
+#creat_ac form{
+  margin-top: 30px;
+}
+
+
+#find-us{
+  color:white;
+  margin-top: 50px;
+  padding: 30px;
+}
+#find-us .my{
+  color:white;
+  margin-top: 20px;
+}
+
+
+
+#footer {
+   background-color: black;
+   margin-top: 30px;
+   padding: 60px;
+
+}
+#footer a{
+  margin-top: 10px;
+  color: white;
+  text-decoration: none;
+  margin-top: 10px;
+}
+#footer a:hover{
+  color:orange;
+}
+#footer kbd{
+  background-color: white;
+}
+#footer .my{
+  padding: 10px 10px;
+}
+#footer .row{
+   border-bottom: 3px solid white;
+}
+#footer p1{
+  color:white;
+  margin-top: 20px;
+}
