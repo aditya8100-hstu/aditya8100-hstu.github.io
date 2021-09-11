@@ -1,7 +1,6 @@
 .row{
   width: 100%;
 }
-
 h1{
   text-align: center;
 }
@@ -9,13 +8,11 @@ h1{
     float: left;
     padding: 2px;
 }
-
 .content {
     background-color:	rgb(248,248,255);
     padding:  30px 25px 30px 25px ;
     border: 1px solid black;
 }
-
 #chicken{
   background-color: red;
   color: white;
