@@ -1,0 +1,54 @@
+
+body{
+  background-color: green;
+}
+
+#header h1{
+  margin: 30px 0px 30px 0px;
+}
+
+#content .container .row  #content_container{
+  border: 2px solid black;
+  background-color: gray;
+  margin: 10px 0px 10px 0px;
+  padding: 50px 50px 50px 50px ;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+       #content{
+         margin: 30px;
+       }
+        #content .container .row  #content_container{
+          text-align: left;
+          padding: 30px;
+        }
+        #header h1{
+          text-align: right;
+        }
+}
+
+#scroll_top{
+  color: black;
+}
+#scroll_top:hover{
+  background-color: red;
+  color: white;
+}
+
+#menu_bar{
+  background-color: orange;
+  font-size: 30px
+}
+#menu_bar .navbar-brand{
+  font-size: 30px
+}
+
+#menu_bar .navbar-nav .nav-item .nav-link{
+  color: white;
+  padding: 20px
+}
+#menu_bar .navbar-nav .nav-item .nav-link:hover{
+  color: red;
+  padding: 0px 0px 05px 0px;
+  background-color: green
+}
