@@ -14,7 +14,7 @@ body{
   padding: 50px 50px 50px 50px ;
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 768px) and (min-width: 991px) {
        #content{
          margin: 30px;
        }
@@ -49,6 +49,5 @@ body{
 }
 #menu_bar .navbar-nav .nav-item .nav-link:hover{
   color: red;
-  padding: 0px 0px 05px 0px;
   background-color: green
 }
