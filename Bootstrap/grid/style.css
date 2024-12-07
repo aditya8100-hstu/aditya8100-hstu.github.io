@@ -1,0 +1,23 @@
+.imageAndTextcontainer {
+  margin-top: 20px;
+}
+.textContainer {
+  margin-top: 10%;
+}
+.imageContainer img {
+  width: 70%;
+  height: 70%;
+}
+@media only screen and (max-width: 768px) {
+  .textContainer {
+    text-align: center !important;
+  }
+  .imageContainer img {
+    text-align: center;
+    width: 50%;
+    height: 50%;
+  }
+  h1 {
+    text-align: center;
+  }
+}
