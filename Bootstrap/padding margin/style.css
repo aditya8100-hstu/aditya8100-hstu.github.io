@@ -1,0 +1,26 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #b8e1d1;
+}
+.con1 {
+  box-shadow: 0 4px 10px 3px #e4d9f0;
+  margin-top: 10px;
+  color: #5d5b60;
+}
+.con2 {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* Box Styling */
+.column {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  background-color: #fff;
+}
