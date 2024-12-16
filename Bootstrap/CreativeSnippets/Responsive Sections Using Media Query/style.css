@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.col2 {
+  background-color: bisque;
+  margin-left: -200px;
+  z-index: 2;
+  padding: 20px;
+}
+.col1 {
+  z-index: 1;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    padding: 0px;
+    margin: 0px;
+  }
+  .col1 {
+    margin: 0px;
+    padding: 0px;
+  }
+  .col2 {
+    margin: 0px;
+    padding: 20px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    padding: 0px;
+    margin: 0px;
+  }
+  .col1 {
+    margin: 0px;
+    padding: 0px;
+  }
+  .col2 {
+    margin: 0px;
+    padding: 20px;
+  }
+}
