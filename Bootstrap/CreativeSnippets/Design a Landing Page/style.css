@@ -5,6 +5,8 @@
 body {
   font-family: "Nunito", serif;
 }
+
+/* home--------------------------------------------------------------------------------------------------------------------- */
 .homeh1 {
   font-size: 56px;
   font-weight: 700;
@@ -57,4 +59,45 @@ body {
     margin-top: 20px;
     font-size: 20px;
   }
+}
+
+/* Features--------------------------------------------------------------------------------------------------------------------- */
+
+.featuresh1 {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  color: rgb(0, 0, 0);
+}
+.featuresh4 {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 34px;
+  color: rgb(128, 128, 128);
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.featuresh2_4 {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+  color: rgb(35, 34, 34);
+}
+.featuresh2_5 {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 27px;
+  color: rgba(58, 57, 57, 0.7);
+}
+
+.bg-features {
+  background-color: #f1f1f1;
+}
+.bg-features:hover {
+  background-color: #4285f4;
+  transition: #4285f4 0.3s ease;
+}
+.bg-features:hover a {
+  background-color: white;
 }
