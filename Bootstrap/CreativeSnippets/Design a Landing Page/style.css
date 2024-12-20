@@ -99,5 +99,5 @@ body {
   transition: #4285f4 0.3s ease;
 }
 .bg-features:hover a {
-  background-color: white;
+  color: white;
 }
